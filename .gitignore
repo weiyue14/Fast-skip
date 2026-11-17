@@ -1,0 +1,11 @@
+/dist/
+/.vs/
+/.idea/
+/.vscode/
+*.user
+*.suo
+*.lnk
+FastSkip.settings.xml
+*.tmp
+Thumbs.db
+Desktop.ini
